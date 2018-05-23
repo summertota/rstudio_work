@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wep_split">
+    <output-path>$PROJECT_DIR$/out/artifacts/wep_split</output-path>
+    <root id="archive" name="wep_split.jar">
+      <element id="module-output" name="WepJudge" />
+    </root>
+  </artifact>
+</component>

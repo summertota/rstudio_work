@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hadoopWordCount" />
+        <module name="WEP_SPLIT" />
+        <module name="WepJudge" />
+        <module name="WordCount" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hadoop-ldd" target="1.5" />
+      <module name="hadoopWordCount" target="1.5" />
+      <module name="JRI" target="1.5" />
+      <module name="jri" target="1.5" />
+      <module name="sino" target="1.5" />
+      <module name="UDF" target="1.5" />
+      <module name="WEP_SPLIT" target="1.7" />
+      <module name="WepJudge" target="1.7" />
+      <module name="WordCount" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
